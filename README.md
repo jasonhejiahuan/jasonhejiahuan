@@ -1,4 +1,4 @@
-## Hi there 👋
+- ## Hi there 👋
 
 <!--
 **jasonhejiahuan/jasonhejiahuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hello%20World&fontSize=90&fontAlign=50&fontAlignY=30&desc=jasonhejiahuan&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" width="800" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi%20there%20👋&fontSize=90&fontAlign=50&fontAlignY=30&desc=jasonhejiahuan&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" width="800" />
 
   <div style="display: flex; justify-content: center; align-items: flex-start;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
