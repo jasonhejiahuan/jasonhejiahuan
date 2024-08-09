@@ -28,4 +28,6 @@ Here are some ideas to get you started:
   </div>
 
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=jasonhejiahuan&theme=github-compact&hide_border=true&area=true" />
+
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=jasonhejiahuan&theme=github-compact&hide_border=true&area=true" />
 </div>
