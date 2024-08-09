@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hello%20World&fontSize=90&fontAlign=50&fontAlignY=30&desc=jasonhejiahuan&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
-<p align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonhejiahuan)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jasonhejiahuan&mode=weekly)](https://git.io/streak-stats)
-</p>
+
