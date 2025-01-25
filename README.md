@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
   <div style="display: flex; justify-content: center; align-items: flex-start;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=jasonhejiahuan" alt="Anurag's GitHub stats" width="400" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=jasonhejiahuan" alt="Anurag's GitHub stats" width="800" height="200"/>
     </a>
   </div>
 
