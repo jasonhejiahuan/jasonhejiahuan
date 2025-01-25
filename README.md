@@ -26,6 +26,7 @@ Here are some ideas to get you started:
       <img src="https://streak-stats.demolab.com?user=jasonhejiahuan&mode=weekly" alt="GitHub Streak" width="400" height="200"/>
     </a>
   </div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jasonhejiahuan)](https://git.io/streak-stats)
 
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jasonhejiahuan&theme=github-compact&hide_border=true&area=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jasonhejiahuan&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
