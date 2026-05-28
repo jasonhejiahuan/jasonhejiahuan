@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 
 <img height="180em" src="https://gh-stats.jasonstu.cc/api/top-langs/?username=jasonhejiahuan&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" />
 
-<br/>
+<p align="center">
 
-<br/>
+  &nbsp;
+
+</p>
 
 <img width="75%" src="https://gh-stats.jasonstu.cc/api/streak?username=jasonhejiahuan&theme=transparent&hide_border=true&cache_seconds=86400" />
 
