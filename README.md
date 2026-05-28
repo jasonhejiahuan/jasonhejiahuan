@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi%20there%20👋&fontSize=90&fontAlign=50&fontAlignY=30&desc=jasonhejiahuan&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" width="800" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jasonhejiahuan&theme=github-compact&hide_border=true&area=true" />
+
+## WakaTime
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
