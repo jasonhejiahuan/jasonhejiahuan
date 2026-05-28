@@ -22,4 +22,20 @@ Here are some ideas to get you started:
 ## WakaTime
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 20 May 2026 - To: 27 May 2026
+
+Total Time: 6 hrs 46 mins
+
+Python       4 hrs 34 mins         ████████████████▒░░░░░░░░   65.15 %
+Markdown     1 hr 27 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
+Git          16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Other        14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Git Config   8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+C++          6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+JSON         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Text         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+```
+
 <!--END_SECTION:waka-->
