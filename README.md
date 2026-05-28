@@ -22,13 +22,17 @@ Here are some ideas to get you started:
 
 ## STATS
 
+<div align="center">
+
+<img height="180em" src="https://gh-stats.jasonstu.cc/api?username=jasonhejiahuan&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&include_all_commits=true&cache_seconds=86400" />
+
+<img height="180em" src="https://gh-stats.jasonstu.cc/api/top-langs/?username=jasonhejiahuan&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" />
+
 <br/>
 
-<img src="https://gh-stats.jasonstu.cc/api?username=jasonhejiahuan&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&include_all_commits=true&cache_seconds=86400" />
+<br/>
 
-<img src="https://gh-stats.jasonstu.cc/api/top-langs/?username=jasonhejiahuan&layout=donut-vertical&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" />
-
-<img src="https://gh-stats.jasonstu.cc/api/streak?username=jasonhejiahuan&theme=transparent&hide_border=true&cache_seconds=86400" />
+<img width="75%" src="https://gh-stats.jasonstu.cc/api/streak?username=jasonhejiahuan&theme=transparent&hide_border=true&cache_seconds=86400" />
 
 </div>
 
