@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jasonhejiahuan&theme=github-compact&hide_border=true&area=true" />
 
 
-# STATS
+## STATS
 
 <br/>
 
