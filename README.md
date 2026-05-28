@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi%20there%20👋&fontSize=90&fontAlign=50&fontAlignY=30&desc=jasonhejiahuan&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" width="800" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jasonhejiahuan&theme=github-compact&hide_border=true&area=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jasonhejiahuan&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonhejiahuan&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-</div>
