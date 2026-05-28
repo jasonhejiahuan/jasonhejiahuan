@@ -19,6 +19,19 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi%20there%20👋&fontSize=90&fontAlign=50&fontAlignY=30&desc=jasonhejiahuan&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" width="800" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jasonhejiahuan&theme=github-compact&hide_border=true&area=true" />
 
+
+# STATS
+
+<br/>
+
+<img src="https://gh-stats.jasonstu.cc/api?username=jasonhejiahuan&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&include_all_commits=true&cache_seconds=86400" />
+
+<img src="https://gh-stats.jasonstu.cc/api/top-langs/?username=jasonhejiahuan&layout=donut-vertical&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" />
+
+<img src="https://gh-stats.jasonstu.cc/api/streak?username=jasonhejiahuan&theme=transparent&hide_border=true&cache_seconds=86400" />
+
+</div>
+
 ## WakaTime
 
 <!--START_SECTION:waka-->
