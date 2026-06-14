@@ -43,18 +43,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2026 - To: 13 June 2026
+From: 07 June 2026 - To: 14 June 2026
 
-Total Time: 7 hrs 43 mins
+Total Time: 3 hrs 54 mins
 
-Python       3 hrs 37 mins         ███████████▒░░░░░░░░░░░░░   45.31 %
-Markdown     1 hr 4 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
-HTML         40 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-C++          39 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-JavaScript   27 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-Git Config   25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-TOML         21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-JSON         18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Python       2 hrs 10 mins         ██████████████░░░░░░░░░░░   55.54 %
+C++          39 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
+HTML         38 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
+JSON         18 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Markdown     4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Git Config   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
