@@ -43,17 +43,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2026 - To: 16 July 2026
+From: 10 July 2026 - To: 17 July 2026
 
-Total Time: 45 mins
+Total Time: 4 hrs 12 mins
 
-Python      22 mins               ████████████▒░░░░░░░░░░░░   48.97 %
-HTML        7 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
-JSON        7 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
-iCalendar   4 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
-Markdown    3 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Other       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Text        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python       2 hrs 27 mins         ██████████████░░░░░░░░░░░   55.71 %
+Markdown     38 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+JavaScript   28 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
+HTML         14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+Other        13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+iCalendar    11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+JSON         7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+CSS          4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
