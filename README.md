@@ -43,16 +43,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2026 - To: 24 July 2026
+From: 18 July 2026 - To: 25 July 2026
 
-Total Time: 1 hr 55 mins
+Total Time: 2 hrs 1 min
 
-Python       52 mins               ██████████▓░░░░░░░░░░░░░░   43.05 %
-JavaScript   25 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
-Markdown     19 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-Swift        17 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
-Other        5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Git Config   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Markdown     48 mins               █████████▒░░░░░░░░░░░░░░░   37.93 %
+Swift        46 mins               █████████▒░░░░░░░░░░░░░░░   36.81 %
+JavaScript   24 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
+Other        6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Git Config   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+XML          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
