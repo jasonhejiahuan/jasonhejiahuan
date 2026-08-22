@@ -43,12 +43,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2026 - To: 20 August 2026
+From: 14 August 2026 - To: 21 August 2026
 
-Total Time: 4 mins
+Total Time: 1 hr 50 mins
 
-TOML   3 mins                █████████████████▓░░░░░░░   70.91 %
-JSON   1 min                 ███████▒░░░░░░░░░░░░░░░░░   29.09 %
+Markdown      51 mins               █████████▓░░░░░░░░░░░░░░░   38.45 %
+Swift         34 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.86 %
+Other         24 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
+JSON          13 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Bash          4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+TOML          3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Image (svg)   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Git Config    1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
