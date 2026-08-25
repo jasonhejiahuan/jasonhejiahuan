@@ -43,18 +43,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2026 - To: 23 August 2026
+From: 17 August 2026 - To: 24 August 2026
 
-Total Time: 1 hr 44 mins
+Total Time: 44 mins
 
-Markdown      48 mins               █████████▒░░░░░░░░░░░░░░░   37.48 %
-Swift         34 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.08 %
-Other         24 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
-JSON          10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-Bash          4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-TOML          3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Image (svg)   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Git Config    1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Other         21 mins               ████████░░░░░░░░░░░░░░░░░   32.25 %
+Markdown      18 mins               ███████▒░░░░░░░░░░░░░░░░░   28.93 %
+Swift         13 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.04 %
+Bash          4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+TOML          3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+Image (svg)   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+JSON          1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Git Config    1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
