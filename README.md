@@ -43,18 +43,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2026 - To: 27 August 2026
+From: 21 August 2026 - To: 28 August 2026
 
-Total Time: 2 hrs 45 mins
+Total Time: 1 hr 15 mins
 
-Markdown     46 mins               ███████░░░░░░░░░░░░░░░░░░   27.44 %
-JavaScript   37 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.46 %
-JSON         33 mins               █████░░░░░░░░░░░░░░░░░░░░   19.73 %
-Bash         30 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.09 %
-Python       14 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Other        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-HTML         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Git Config   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Bash         30 mins               █████████▓░░░░░░░░░░░░░░░   38.74 %
+JavaScript   21 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.87 %
+Python       14 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
+Markdown     7 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+Other        2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+HTML         1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
 
 <!--END_SECTION:waka-->
