@@ -41,18 +41,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Total Time: 12 hrs 41 mins
+Total Time: 9 hrs 48 mins
 
-Markdown     4 hrs 24 mins         ████████░░░░░░░░░░░░░░░░░   32.19 %
-JavaScript   2 hrs 21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
-Swift        2 hrs 2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
-Python       1 hr 1 min            ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-Other        59 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-HTML         58 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-CSS          39 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-Shell        28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Markdown     3 hrs 33 mins         ████████▒░░░░░░░░░░░░░░░░   33.14 %
+Swift        2 hrs 2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
+JavaScript   1 hr 8 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+Python       1 hr 1 min            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+HTML         57 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Other        55 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+CSS          32 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+YAML         18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
