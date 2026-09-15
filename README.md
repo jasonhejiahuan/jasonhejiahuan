@@ -41,18 +41,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2026 - To: 14 September 2026
+From: 08 September 2026 - To: 15 September 2026
 
-Total Time: 14 hrs 41 mins
+Total Time: 8 hrs 7 mins
 
-Markdown     6 hrs 23 mins         ██████████▒░░░░░░░░░░░░░░   41.68 %
-Python       1 hr 52 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-TypeScript   1 hr 34 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-HTML         1 hr 5 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-JavaScript   53 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-CSS          50 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-TOML         46 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-Other        38 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Markdown     2 hrs 21 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.58 %
+TypeScript   1 hr 34 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
+Python       1 hr 8 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+HTML         1 hr 1 min            ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+Other        43 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+CSS          38 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Batchfile    35 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+TOML         33 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
 ```
 
 <!--END_SECTION:waka-->
