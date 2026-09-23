@@ -41,17 +41,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2026 - To: 22 September 2026
+From: 16 September 2026 - To: 23 September 2026
 
-Total Time: 2 hrs 11 mins
+Total Time: 1 hr 55 mins
 
-Other       2 hrs 27 mins         █████████████▒░░░░░░░░░░░   52.83 %
-Python      1 hr 14 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.61 %
-Markdown    32 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-Batchfile   20 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-TOML        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-JSON        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Shell       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Other       1 hr 19 mins          ██████████░░░░░░░░░░░░░░░   40.64 %
+Python      1 hr 14 mins          █████████▒░░░░░░░░░░░░░░░   37.93 %
+Batchfile   20 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+Markdown    19 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+TOML        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
