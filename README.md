@@ -41,15 +41,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2026 - To: 23 September 2026
+From: 17 September 2026 - To: 24 September 2026
 
 Total Time: 1 hr 55 mins
 
-Other       1 hr 19 mins          ██████████░░░░░░░░░░░░░░░   40.64 %
-Python      1 hr 14 mins          █████████▒░░░░░░░░░░░░░░░   37.93 %
-Batchfile   20 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
-Markdown    19 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
-TOML        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Python      1 hr 14 mins          ████████████▒░░░░░░░░░░░░   49.88 %
+Other       32 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
+Batchfile   20 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+Markdown    19 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
+TOML        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
