@@ -41,18 +41,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2026 - To: 02 October 2026
+From: 26 September 2026 - To: 03 October 2026
 
-Total Time: 3 hrs 34 mins
+Total Time: 2 hrs 32 mins
 
-PowerShell   1 hr 19 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.03 %
-Other        1 hr 19 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.99 %
-Markdown     54 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.72 %
-Bash         37 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-Python       28 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-TypeScript   8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-CSV          3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-JSON         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+PowerShell   1 hr 19 mins          ████████▓░░░░░░░░░░░░░░░░   34.29 %
+Other        1 hr 19 mins          ████████▓░░░░░░░░░░░░░░░░   34.24 %
+Bash         37 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
+Python       20 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+TypeScript   8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Markdown     5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
 
 <!--END_SECTION:waka-->
