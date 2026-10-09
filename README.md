@@ -41,18 +41,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2026 - To: 08 October 2026
+From: 02 October 2026 - To: 09 October 2026
 
-Total Time: 16 hrs 47 mins
+Total Time: 17 hrs 6 mins
 
-Other        10 hrs 15 mins        █████████▒░░░░░░░░░░░░░░░   37.94 %
-Markdown     7 hrs 19 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.11 %
-Python       3 hrs 54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
-TypeScript   2 hrs 41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-Swift        1 hr 27 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-JSON         35 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-JavaScript   18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Git Config   15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Other        9 hrs 10 mins         ████████▓░░░░░░░░░░░░░░░░   34.88 %
+Markdown     7 hrs 16 mins         ███████░░░░░░░░░░░░░░░░░░   27.70 %
+Python       4 hrs 17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
+TypeScript   2 hrs 41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+Swift        1 hr 27 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+JSON         35 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+JavaScript   18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Git Config   15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
