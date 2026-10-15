@@ -41,13 +41,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2026 - To: 14 October 2026
+From: 08 October 2026 - To: 15 October 2026
 
-Total Time: 1 hr 41 mins
+Total Time: 2 hrs 11 mins
 
-Other    2 hrs 30 mins         ███████████████░░░░░░░░░░   59.61 %
-Python   1 hr 38 mins          █████████▓░░░░░░░░░░░░░░░   38.89 %
-JSON     3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Python   2 hrs 11 mins         ████████████████░░░░░░░░░   64.49 %
+Other    1 hr 12 mins          █████████░░░░░░░░░░░░░░░░   35.51 %
 ```
 
 <!--END_SECTION:waka-->
