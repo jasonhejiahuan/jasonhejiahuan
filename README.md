@@ -35,18 +35,3 @@ Here are some ideas to get you started:
 <img width="75%" src="https://gh-stats.jasonstu.cc/api/streak?username=jasonhejiahuan&theme=transparent&hide_border=true&cache_seconds=86400" />
 
 </div>
-
-## WakaTime
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 10 October 2026 - To: 17 October 2026
-
-Total Time: 1 hr 13 mins
-
-Python   1 hr 13 mins          ██████████████░░░░░░░░░░░   55.45 %
-Other    59 mins               ███████████░░░░░░░░░░░░░░   44.55 %
-```
-
-<!--END_SECTION:waka-->
