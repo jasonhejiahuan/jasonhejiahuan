@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img height="180em" src="https://gh-stats.jasonstu.cc/api?username=jasonhejiahuan&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&include_all_commits=true&cache_seconds=86400" />
+<img height="180em" src="https://gh-stats.jasonstu.cc/api?username=jasonhejiahuan&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&include_all_commits=true&cache_seconds=86400&show=prs_merged" />
 
 <img height="180em" src="https://gh-stats.jasonstu.cc/api/top-langs/?username=jasonhejiahuan&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" />
 
